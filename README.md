@@ -160,5 +160,5 @@ If you use Swagger to Cypress Test Generator in your research or project, please
   title = {Swagger to Cypress Test Generator},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/}
+  url = {https://github.com/ACuypers/swagger-cypress}
 }
