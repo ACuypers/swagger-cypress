@@ -51,11 +51,6 @@ OUTPUT_DIR=cypress/e2e
 npm run generate-tests
 ```
 
-2. Run the generated Cypress tests:
-```bash
-npm test
-```
-
 ## Generated Test Structure
 
 The tool generates separate test files for each API endpoint in your Swagger specification. The files are named according to the endpoint path and method:
